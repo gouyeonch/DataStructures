@@ -1,5 +1,3 @@
-#inclu
-
 #define MAX_SIZE 10
 #define boolean unsigned char
 #define true 1
